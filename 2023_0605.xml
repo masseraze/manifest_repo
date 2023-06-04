@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/masseraze"/>
+
+  <default revision="main" remote="origin"/>
+
+  <project path="practice-git" name="practice-git"/>
+  <project path="FFT-OFDM-receiver" name="FFT-OFDM-receiver"/>
+</manifest>
+
